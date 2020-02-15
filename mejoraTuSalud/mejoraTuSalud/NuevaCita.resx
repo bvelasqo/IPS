@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtIdMedico.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="&gt;&gt;lblMedico.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblDospuntos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century, 18pt</value>
+  </data>
+  <data name="btnAsignar.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;dtpFechaDeLaCita.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblMedico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 137</value>
+  </data>
+  <data name="&gt;&gt;lblHoraDeLaCita.Name" xml:space="preserve">
+    <value>lblHoraDeLaCita</value>
+  </data>
+  <data name="lblFechaDeCita.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;cbxAmPm.Name" xml:space="preserve">
+    <value>cbxAmPm</value>
+  </data>
+  <data name="&gt;&gt;nudMinuto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dtpFechaDeLaCita.Name" xml:space="preserve">
+    <value>dtpFechaDeLaCita</value>
+  </data>
+  <data name="&gt;&gt;cbxMedico.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="cbxTipoCita.Items1" xml:space="preserve">
+    <value>Médico General</value>
+  </data>
+  <data name="lblHoraDeLaCita.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century, 12pt</value>
+  </data>
+  <data name="txtIdPaciente.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnAsignar.Name" xml:space="preserve">
+    <value>btnAsignar</value>
+  </data>
+  <data name="cbxTipoCita.Items3" xml:space="preserve">
+    <value>Pediatría</value>
+  </data>
+  <data name="&gt;&gt;lblTipoDeCita.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblHoraDeLaCita.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cbxTipoCita.Items2" xml:space="preserve">
+    <value>Optometría</value>
+  </data>
+  <data name="nudMinuto.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txtIdPaciente.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtIdPaciente.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>10, 20</value>
+  </data>
+  <data name="&gt;&gt;cbxAmPm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblFechaDeCita.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 217</value>
+  </data>
+  <data name="nudHora.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="cbxTipoCita.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 84</value>
+  </data>
+  <data name="btnAsignar.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lblIdMedico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblFechaDeCita.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lblIdPaciente.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="lblIdPaciente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>46, 36</value>
+  </data>
+  <data name="&gt;&gt;nudMinuto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dtpFechaDeLaCita.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="cbxAmPm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 28</value>
+  </data>
+  <data name="cbxTipoCita.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 28</value>
+  </data>
+  <data name="lblHoraDeLaCita.Text" xml:space="preserve">
+    <value>Hora de la cita</value>
+  </data>
+  <data name="&gt;&gt;txtIdMedico.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtIdMedico.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="dtpFechaDeLaCita.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="dtpFechaDeLaCita.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtIdPaciente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 33</value>
+  </data>
+  <data name="&gt;&gt;btnAsignar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbxMedico.Name" xml:space="preserve">
+    <value>cbxMedico</value>
+  </data>
+  <data name="cbxAmPm.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;nudHora.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTipoDeCita.Name" xml:space="preserve">
+    <value>lblTipoDeCita</value>
+  </data>
+  <data name="lblDospuntos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>246, 252</value>
+  </data>
+  <data name="nudHora.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 27</value>
+  </data>
+  <data name="&gt;&gt;cbxTipoCita.Name" xml:space="preserve">
+    <value>cbxTipoCita</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>NuevaCita</value>
+  </data>
+  <data name="lblMedico.Text" xml:space="preserve">
+    <value>ID Médico</value>
+  </data>
+  <data name="lblIdMedico.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;btnAsignar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnAsignar.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblFechaDeCita.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lblMedico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblDospuntos.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;txtIdPaciente.Name" xml:space="preserve">
+    <value>txtIdPaciente</value>
+  </data>
+  <data name="cbxTipoCita.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lblIdMedico.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;cbxMedico.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="lblTipoDeCita.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 20</value>
+  </data>
+  <data name="btnAsignar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="dtpFechaDeLaCita.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 27</value>
+  </data>
+  <data name="txtIdMedico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 175</value>
+  </data>
+  <data name="cbxTipoCita.Items" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="&gt;&gt;txtIdMedico.Name" xml:space="preserve">
+    <value>txtIdMedico</value>
+  </data>
+  <data name="&gt;&gt;lblFechaDeCita.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dtpFechaDeLaCita.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 217</value>
+  </data>
+  <data name="lblTipoDeCita.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lblHoraDeLaCita.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblIdMedico.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDospuntos.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblMedico.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cbxMedico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 129</value>
+  </data>
+  <data name="lblMedico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="&gt;&gt;lblMedico.Name" xml:space="preserve">
+    <value>lblMedico</value>
+  </data>
+  <data name="lblIdPaciente.Text" xml:space="preserve">
+    <value>ID paciente</value>
+  </data>
+  <data name="nudHora.Location" type="System.Drawing.Point, System.Drawing">
+    <value>199, 252</value>
+  </data>
+  <data name="lblFechaDeCita.Text" xml:space="preserve">
+    <value>Fecha de la cita</value>
+  </data>
+  <data name="&gt;&gt;lblIdMedico.Name" xml:space="preserve">
+    <value>lblIdMedico</value>
+  </data>
+  <data name="cbxAmPm.Items" xml:space="preserve">
+    <value>a.m</value>
+  </data>
+  <data name="&gt;&gt;lblHoraDeLaCita.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cbxTipoCita.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbxAmPm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblMedico.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblIdMedico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 20</value>
+  </data>
+  <data name="btnAsignar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>130, 297</value>
+  </data>
+  <data name="&gt;&gt;lblIdPaciente.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblFechaDeCita.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lblHoraDeLaCita.Size" type="System.Drawing.Size, System.Drawing">
+    <value>116, 20</value>
+  </data>
+  <data name="lblIdMedico.Text" xml:space="preserve">
+    <value>Medico</value>
+  </data>
+  <data name="nudMinuto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 251</value>
+  </data>
+  <data name="&gt;&gt;cbxMedico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblTipoDeCita.Text" xml:space="preserve">
+    <value>Tipo de cita</value>
+  </data>
+  <data name="cbxMedico.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="txtIdMedico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 27</value>
+  </data>
+  <data name="cbxAmPm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>318, 251</value>
+  </data>
+  <data name="lblHoraDeLaCita.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;dtpFechaDeLaCita.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lblFechaDeCita.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblHoraDeLaCita.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblFechaDeCita.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 20</value>
+  </data>
+  <data name="lblMedico.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nudHora.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lblIdMedico.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cbxAmPm.Items1" xml:space="preserve">
+    <value>p.m</value>
+  </data>
+  <data name="txtIdMedico.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;cbxTipoCita.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nudMinuto.Name" xml:space="preserve">
+    <value>nudMinuto</value>
+  </data>
+  <data name="txtIdPaciente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 27</value>
+  </data>
+  <data name="&gt;&gt;lblDospuntos.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="nudMinuto.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;dtpFechaDeLaCita.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblHoraDeLaCita.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 258</value>
+  </data>
+  <data name="lblDospuntos.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;lblIdPaciente.Name" xml:space="preserve">
+    <value>lblIdPaciente</value>
+  </data>
+  <data name="lblIdMedico.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 182</value>
+  </data>
+  <data name="&gt;&gt;nudHora.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;cbxTipoCita.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="lblIdPaciente.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblIdPaciente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 20</value>
+  </data>
+  <data name="cbxMedico.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 28</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>404, 364</value>
+  </data>
+  <data name="cbxAmPm.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;txtIdMedico.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtIdPaciente.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDospuntos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblTipoDeCita.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nudHora.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblMedico.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;nudHora.Name" xml:space="preserve">
+    <value>nudHora</value>
+  </data>
+  <data name="&gt;&gt;cbxAmPm.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cbxMedico.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lblDospuntos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>19, 28</value>
+  </data>
+  <data name="&gt;&gt;nudMinuto.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblTipoDeCita.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnAsignar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 29</value>
+  </data>
+  <data name="&gt;&gt;lblDospuntos.Name" xml:space="preserve">
+    <value>lblDospuntos</value>
+  </data>
+  <data name="&gt;&gt;lblFechaDeCita.Name" xml:space="preserve">
+    <value>lblFechaDeCita</value>
+  </data>
+  <data name="&gt;&gt;txtIdMedico.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nudMinuto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 27</value>
+  </data>
+  <data name="lblIdPaciente.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDospuntos.Text" xml:space="preserve">
+    <value>:</value>
+  </data>
+  <data name="lblTipoDeCita.Location" type="System.Drawing.Point, System.Drawing">
+    <value>46, 87</value>
+  </data>
+  <data name="btnAsignar.Text" xml:space="preserve">
+    <value>Asignar</value>
+  </data>
+  <data name="&gt;&gt;lblTipoDeCita.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btnAsignar.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="&gt;&gt;lblDospuntos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblIdMedico.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lblIdPaciente.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es-CO</value>
+  </metadata>
+</root>

@@ -1,0 +1,70 @@
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.config
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.pdb
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csprojAssemblyReference.cache
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Form1.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Properties.Resources.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csproj.GenerateResource.cache
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csproj.CoreCompileInputs.cache
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.pdb
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.RegistrarPacientecs.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.NuevaCita.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.es-CO.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.es-CO.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.es-CO.resources
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.manifest
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.application
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe.manifest
+C:\Users\Maria Camila\Desktop\bvo\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.application
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.config
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.pdb
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csprojResolveAssemblyReference.cache
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Form1.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.NuevaCita.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Properties.Resources.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.RegistrarPacientecs.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.es-CO.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.es-CO.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.es-CO.resources
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csproj.GenerateResource.Cache
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.manifest
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.application
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.pdb
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\bin\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe.manifest
+C:\Users\s112e1\Desktop\BVO\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.application
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.config
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe.manifest
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.application
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\mejoraTuSalud.pdb
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\bin\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csprojAssemblyReference.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Form1.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.NuevaCita.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Properties.Resources.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.RegistrarPacientecs.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Acceso.es-CO.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Control.es-CO.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.Medico.es-CO.resources
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.csproj.GenerateResource.cache
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\es-CO\mejoraTuSalud.resources.dll
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe.manifest
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.application
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.exe
+C:\Users\Brandon Velasquez\Desktop\Brandon\mejoraTuSalud\mejoraTuSalud\obj\Debug\mejoraTuSalud.pdb
